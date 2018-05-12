@@ -1,0 +1,49 @@
+_repo: Warriors-of-Old-Japan-and-Other-Stories_41437
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Fraser, Hugh, Mrs.
+    aliases:
+    - Fraser, Mrs. Hugh
+    - Fraser, Mary Crawford
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '40861'
+    url: http://www.gutenberg.org/2009/agents/40861
+  illustrator:
+    agent_name: Okakura, Shusui
+    alias: 岡倉秋水
+    birthdate: 1867
+    deathdate: 1950
+    gutenberg_agent_id: '41183'
+    url: http://www.gutenberg.org/2009/agents/41183
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ozaki, Yei Theodora
+    alias: Ozaki, Yukio, Madame
+    gutenberg_agent_id: '1360'
+    url: http://www.gutenberg.org/2009/agents/1360
+    wikipedia: http://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Japan'
+tableOfContents: Introductory note -- Madame Yukio Ozaki [by Mrs. Hugh Fraser] --
+  Hachiro Tametomo, the archer -- Gen Sanmi Yorimasa, the knight -- The story of Yoshitsune
+  -- The story of Benkei -- The goblin of Oyeyama -- Kidomaru the robber, Raiko the
+  Brave, and the goblin spider -- The story of the pots of plum, cherry, and pine
+  -- Shiragiku, or White Chrysanthemum -- The princess of the bowl -- The story of
+  Lazy Taro.
+title: Warriors of Old Japan, and Other Stories
+url: http://www.gutenberg.org/ebooks/41437
