@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1360
     wikipedia: http://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41437#Warriors-of-Old-Japan-and-Other-Stories
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
